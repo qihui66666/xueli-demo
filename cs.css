@@ -1,0 +1,130 @@
+.header
+.header-top{
+	
+	height:60px;
+	line-height: 60px;
+	border-bottom: 4px solid yellow;
+	background:url(5.jpg);
+	
+	color:black;
+
+}
+.container{
+	
+	
+	
+	margin:0 auto;
+}
+.logo{width: 120px;
+	height: 120px;
+
+	left: 292px;
+	top: 23px;
+	float:left;
+}
+.header-info{
+	float:right;
+	margin:0 auto;
+	list-style: none;
+
+}
+
+.header-info li{
+	margin-left: 20px;
+	float:left;
+	
+}
+.header-info a{ 
+     font-size: 19px;
+     font-weight: 500;
+     color: rgba(87,250,255,1)
+ }
+.search{
+	width:150px;
+	float: left;
+    padding-top: 9px;
+	border:1px solid rgba(255,10,120,1)
+	
+	}
+}
+.nav .second{
+}
+.submit{
+	float:left;
+	width: 29px;
+	height: 29px;
+	background: rgba(255,10,120,1) url(WPS图片-修改尺寸.jpg) no-repeat center center
+	
+}
+.nav{float:left;
+}
+.nav li{ float: left;
+	margin-left: 30px;
+	text-align: center;
+	border-right: 2px solid pink;
+	margin-top: 38px;
+	
+     }
+.nav a{
+	font-size: 20px;
+     font-weight: 600;
+     color: rgba(255,128,128,1);
+}
+.form{
+	
+
+	float: right;
+}
+.iphone{background:url(../);}
+.banner{
+    background-color: rgba(255,50,110,1);
+	position: relative;
+	height: 350px;
+	
+}
+.banner li{
+	       width: 100%;
+	       height: 350px;
+           position: absolute;
+           top: 0;
+           left:0;}
+.banner-one{
+	background:url(tuanti4.jpg) no-repeat center center;
+    float:center;
+}
+.br{width:100%;}
+.one{width: 1200px;
+     height:300px;
+    }
+
+.two{width:220px;
+	height:280px;
+}
+    
+.four{width:300px;
+height: 300px;
+float:left;
+padding: 10px;
+margin-left: 10px;
+background-color: pink;
+}
+.bottom
+{
+position:absolute;
+right:0px;
+bottom:0px;
+background:#000000;
+color:#fff;
+display:block;
+width:100%;
+text-align:center;
+z-index: 10;
+}
+.bottom span
+{
+position:relative;
+display:block;
+left:0;
+
+}
+
